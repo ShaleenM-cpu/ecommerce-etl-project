@@ -24,9 +24,11 @@
 ## 📊 Dashboard
 
 Visualized regional product trends using:
-- Bar charts
-- Pie charts
-- Line graphs
+- Stacked bar chart
+- Line chart
+- Scatter chart
+- Clustered custom chart
+- Map
 
 ---
 
