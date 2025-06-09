@@ -73,7 +73,7 @@ Although performance was weak, this satisfies bonus ML criteria.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ShaleenM-cpu/ecommerce-trends-bi.git
+git clone https://github.com/ShaleenM-cpu/ecommerce-etl-project.git
 cd ecommerce-trends-bi
 
 # Start JupyterLab
