@@ -45,7 +45,7 @@ Although performance was weak, this satisfies bonus ML criteria.
 
 ## 📅 Task Scheduler & Data Simulation
 
-- The pipeline uses a task scheduler (e.g., `cron` job or JupyterLab scheduler extensions) to automate daily runs.  
+- The pipeline uses a window task scheduler to automate daily runs.  
 - Since the dataset from Kaggle is static, the scheduler generates **synthetic daily data** for 2025 based on patterns from the 2024 data.  
 - This synthetic data is used to test ETL processing, alerts, ML predictions, and dashboard updates, simulating a "live" environment without requiring new real data.
 
